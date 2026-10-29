@@ -5,7 +5,7 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: #000;
-font-family: "Montserrat", sans-serif;
+font-family: "Black Ops One", system-ui;
 }
 
 a:hover {
@@ -49,7 +49,7 @@ header {
 }
 
 .logo {
-	font-family: "Oswald", sans-serif;
+	font-family: "Black Ops One", system-ui;
 	font-size: 1.5rem;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -58,7 +58,7 @@ header {
 
 .logo span {
 	display: block;
-	font-family: "Montserrat", sans-serif;
+	font-family: "Black Ops One", system-ui;
 	font-size: 0.8rem;
 	font-weight: 400;
 	letter-spacing: 1px;
@@ -168,7 +168,7 @@ footer {
 
 .footer-right {
 	font-size: 1.5rem;
-	font-family: "Oswald", sans-serif;
+	font-family: "Black Ops One", system-ui;
 	letter-spacing: 8px;
 	text-transform: uppercase;
 	opacity: 0.8;
